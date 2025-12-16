@@ -1,4 +1,4 @@
-# Hi! I'm adamdev
+# Hi! I'm pixeedev
 - I’m interested in tech
 - I’m currently learning HTML, Py , C++
 - Pronouns: He/Him
@@ -6,5 +6,5 @@
 - Fun fact: I'm so young...
 
 # Do you need to contact me? You can do it via:
-- Telegram: @Notadamgg
-- Discord: @adamistech_
+- Telegram: @pixeeluvsyou_
+- Discord: @pixeeluvsyou_
